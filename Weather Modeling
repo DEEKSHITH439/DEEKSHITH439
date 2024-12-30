@@ -1,4 +1,6 @@
- Implement weather modeling* using the quadratic solution in stages: 
-hard-coding variables keyboard input, read from a file, for a single set of input, multiple sets of inputs. a. 
-save all versions, debug, fix problems, create a Github account
-
+git init
+git add .
+git commit -m "Initial commit for weather modeling project"
+git branch -M main
+git remote add origin https://github.com/YourUsername/weather-modeling.git
+git push -u origin main
