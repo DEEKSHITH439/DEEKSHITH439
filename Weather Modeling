@@ -1,22 +1,16 @@
+#1. Hardcoding the variables
 
-a = -0.25
-b = 2
-c = 15
+import math
 
-def calculate_temperature(t):
-    return a * t**2 + b * t + c
+def calculate_lcm(a, b):
+    if a == 0 or b == 0:
+        return 0
+    gcd = math.gcd(a, b)
+    lcm = abs(a * b) // gcd
+    return lcm
 
 
-times = [0, 6, 12, 18, 24]  
-print("Time (hours) | Temperature (°C)")
-print("-----------------------------")
-
-for t in times:
-    temp = calculate_temperature(t)
-    print(f"{t} hours   ->   {temp:.2f}°C")
-
-peak_time = -b / (2 * a)
-peak_temp = calculate_temperature(peak_time)
-
-print(f"\nPeak temperature: {peak_temp:.2f}°C at {peak_time:.2f} hours")
-
+num1 = 12
+num2 = 18
+result = calculate_lcm(num1, num2)
+print(f"The LCM of {num1} and {num2} is {result}.")
