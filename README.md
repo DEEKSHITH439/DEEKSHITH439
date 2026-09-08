@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Deekshith K B
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Software+Testing+Enthusiast;AI+%26+Data+Analytics+Enthusiast" />
-</p>
+### Computer Science & Engineering | Full Stack Development | Software Testing | AI & Data
 
 <p align="center">
   <a href="https://github.com/DEEKSHITH439">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-DEEKSHITH439-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/deekshith-k-b-b2a40025b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://deekshith439.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
 
@@ -20,177 +18,214 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science and Engineering student** passionate about building practical software solutions and learning new technologies.
+I'm a **Computer Science and Engineering student** interested in building practical software solutions and continuously improving my technical skills.
 
-* 🎓 Computer Science and Engineering student
-* 💻 Interested in **Full Stack Development**
-* 🧪 Exploring **Software Testing and Automation**
-* 🤖 Interested in **AI-integrated applications**
-* 📊 Interested in **Data Analytics**
-* 🚀 Building practical projects to strengthen my development and problem-solving skills
-* 🌱 Continuously learning and improving my technical skills
+My interests span across **Full Stack Development, Software Testing, AI-integrated applications, and Data Analytics**.
+
+- 🎓 Computer Science & Engineering student
+- 💻 Building web applications using modern development technologies
+- 🧪 Developing skills in Software Testing and Quality Engineering
+- 🤖 Exploring AI-powered and AI-integrated applications
+- 📊 Interested in Data Analytics and visualization
+- 🔧 Comfortable working with Git, GitHub, APIs and databases
+- 🚀 Enjoy turning ideas into practical projects
+- 🌱 Currently learning, building and improving every day
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
+`Java` `SQL` `Python` `JavaScript`
 
-* Java
-* SQL
-* Python
-
-### 🌐 Web Development
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Node.js
-* Express.js
+### 🌐 Full Stack Development
+`HTML5` `CSS3` `React.js` `Node.js` `Express.js`
 
 ### 🧪 Software Testing
-
-* Manual Testing
-* Functional Testing
-* Regression Testing
-* Test Case Design
-* API Testing
-* Selenium
-* TestNG
+`Manual Testing` `Test Case Design` `Functional Testing`  
+`Regression Testing` `API Testing` `Selenium` `TestNG`
 
 ### 🗄️ Databases
-
-* MySQL
-* MongoDB
-* Firebase / Firestore
+`MySQL` `MongoDB` `Firebase` `Firestore`
 
 ### 🤖 AI & Data
+`Generative AI` `Gemini API` `Data Analysis` `Data Preprocessing`
 
-* Generative AI
-* Gemini API
-* Data Analysis
-* Data Preprocessing
-
-### 🔧 Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Firebase
-* Vercel
+### 🔧 Tools & Platforms
+`Git` `GitHub` `Postman` `VS Code` `Firebase` `Vercel`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🦎 ReptileGuard
+## 🦎 ReptileGuard
+### Reptile Identification and Management System
 
-**Reptile Identification and Management System**
+A full-stack platform designed to manage and identify reptile sightings with AI-powered species identification and safety guidance.
 
-A full-stack platform for managing and identifying reptile sightings with AI-powered species detection and safety guidance.
+**Highlights**
+- AI-based reptile species identification
+- Gemini API integration
+- Safety guidance and risk assessment
+- Authentication and role-based dashboards
+- Filtering and CSV export
+- Responsive user interface
 
-**Key Features**
-
-* Reptile species identification
-* Gemini API integration
-* Safety guidance and risk assessment
-* Authentication and role-based dashboards
-* Filtering and CSV export
-* Responsive interface
-
-**Tech Stack:** React.js, Firebase, Firestore, Gemini API
+**Tech Stack:** `React.js` `Firebase` `Firestore` `Gemini API`
 
 ---
 
-### 🌱 GreenCare AI
+## 🌱 GreenCare AI
+### Intelligent Farming Assistant
 
-**Intelligent Farming Assistant**
+An AI-based platform designed to help farmers with plant disease and pest detection.
 
-An AI-based platform designed to assist farmers with plant disease and pest detection.
+**Highlights**
+- AI-based plant disease detection
+- Multilingual support
+- AI chatbot
+- Analytics dashboard
+- Detection history
+- PDF export
 
-**Key Features**
-
-* AI-based plant disease detection
-* Multilingual support
-* AI chatbot
-* Analytics dashboard
-* Detection history
-* PDF export
-
-**Tech Stack:** React.js, Supabase, Gemini API
+**Tech Stack:** `React.js` `Supabase` `Gemini API`
 
 ---
 
-### 💊 DoseCare
-
-**Smart Medication Management System**
+## 💊 DoseCare
+### Smart Medication Management System
 
 A web application designed to help users manage medication schedules and maintain medication history.
 
-**Key Features**
+**Highlights**
+- Medication scheduling
+- Authentication
+- CRUD operations
+- Dose history tracking
+- Notifications
+- Rule-based chatbot
 
-* Medication scheduling
-* Authentication
-* CRUD operations
-* Dose history tracking
-* Notifications
-* Rule-based chatbot
-
-**Tech Stack:** React.js, JavaScript, Firebase
-
----
-
-## 🧪 Testing & Quality Engineering
-
-I'm also developing skills in software testing and quality engineering, including:
-
-* Test Case Design
-* Functional Testing
-* Regression Testing
-* API Testing using Postman
-* Authentication Testing
-* CRUD Testing
-* Basic Automation Testing
-* Selenium
-* TestNG
+**Tech Stack:** `React.js` `JavaScript` `Firebase`
 
 ---
 
-## 🏆 Achievements
+# 📂 Other Projects
 
-* 🥇 Secured **Top 30** out of 125 teams in **Smart India Hackathon 2025**
-* 📺 Built and monetized a **YouTube channel during college**
+### 🧪 Web Testing System
+A web-based testing project focused on creating and managing online testing functionality.
 
----
-
-## 📜 Certifications
-
-* **ReactJS** — Infosys Springboard
-* **Introduction to MongoDB (For Students)** — MongoDB University
-* **MongoDB Atlas Administrator Path** — MongoDB University
+**Technology:** `JavaScript`
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Power BI
+Data visualization and dashboard-based project exploring data analysis and presentation using Power BI.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEEKSHITH439&show_icons=true&hide_border=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEKSHITH439&layout=compact&hide_border=true&theme=tokyonight" height="170" />
-</p>
+**Technology:** `Power BI`
 
 ---
 
-## 🔥 Contribution Activity
+### 🖥️ ATM Simulator
+A Java-based ATM simulation project demonstrating banking operations and application logic.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEEKSHITH439&theme=tokyo-night&hide_border=true" />
-</p>
+**Technology:** `Java`
 
 ---
 
-## 🎯 Current Focus
+### 🕵️ Real-Time Object Detection
+A computer-vision based project focused on detecting objects in real time.
+
+**Technology:** `Python`
+
+---
+
+### 🧩 Treasure Hunt Game
+A Python-based interactive game demonstrating programming logic and user interaction.
+
+**Technology:** `Python`
+
+---
+
+### 🔄 Unit Converter
+A Python project for performing different unit conversions through a simple application interface.
+
+**Technology:** `Python`
+
+---
+
+### 🔐 Password Generator
+A Python-based utility for generating passwords programmatically.
+
+**Technology:** `Python`
+
+---
+
+### ✅ To-Do List
+A simple task-management application built to practice programming fundamentals and application logic.
+
+**Technology:** `Python`
+
+---
+
+### 🌐 Personal Portfolio
+My personal portfolio website showcasing my projects, skills and professional information.
+
+**Technology:** `HTML`
+
+🔗 **[View Portfolio](https://deekshith439.github.io/Portfolio/)**
+
+---
+
+# 🧪 Testing & Quality Engineering
+
+I'm developing practical knowledge in software testing and quality engineering.
+
+**Areas of interest:**
+
+- Test Case Design
+- Functional Testing
+- Regression Testing
+- API Testing
+- Authentication Testing
+- CRUD Testing
+- Web Application Testing
+- Basic Automation Testing
+- Selenium
+- TestNG
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Secured **Top 30 out of 125 teams** in **Smart India Hackathon 2025**
+- 📺 Built and monetized a **YouTube channel during college**
+
+---
+
+# 📜 Certifications
+
+- **ReactJS** — Infosys Springboard
+- **Introduction to MongoDB (For Students)** — MongoDB University
+- **MongoDB Atlas Administrator Path** — MongoDB University
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm currently interested in **entry-level opportunities** where I can learn, contribute and grow as a software professional.
+
+### Interested Roles
+
+- 💻 Software Engineer
+- 🌐 Full Stack Developer
+- 🧪 Software Test Engineer
+- 🔍 QA / Quality Engineer
+- 🤖 AI / Data-related Entry-Level Roles
+- 📊 Data Analyst — Entry Level
+
+---
+
+# 🌱 Current Focus
 
 ```text
 Full Stack Development
@@ -198,28 +233,3 @@ Software Testing & Quality Engineering
 AI-integrated Applications
 Data Analytics
 Problem Solving
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/deekshith-k-b-b2a40025b">
-    LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://deekshith439.github.io/Portfolio/">
-    Portfolio
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/DEEKSHITH439">
-    GitHub
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
